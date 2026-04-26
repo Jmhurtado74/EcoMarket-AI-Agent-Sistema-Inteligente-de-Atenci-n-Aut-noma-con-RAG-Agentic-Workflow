@@ -32,6 +32,9 @@ Desarrollar una solución que:
 
 ### 🔷 Diagrama del flujo (Agentic Workflow)
 
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/006ee1e5-0e52-41af-9c9d-115f5c816c47" />
+
+
 ```mermaid
 flowchart TD
     A[Usuario] --> B[AI Agent]
